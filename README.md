@@ -12,3 +12,5 @@ React (Vite), Node.js, Express, MongoDB Atlas, Docker, Docker Hub, Render, GitHu
 
 ## Hướng dẫn cài đặt và chạy
 Sẽ cập nhật ở các câu sau.
+- Frontend (Render): https://web-235811.onrender.com
+- Backend API (Render): https://api-235811.onrender.com
