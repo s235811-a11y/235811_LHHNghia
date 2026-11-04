@@ -19,3 +19,10 @@ Sẽ cập nhật ở các câu sau.
 - Kiểm tra trạng thái: https://api-235811.onrender.com/health
 - Docker Hub backend: https://hub.docker.com/r/lhhnghia1908/backend
 - Docker Hub frontend: https://hub.docker.com/r/lhhnghia1908/frontend
+
+Link_GitHub	https://github.com/s235811-a11y/235811_LHHNghia
+Link_Docker_Backend	https://hub.docker.com/r/lhhnghia1908/backend
+Link_Docker_Frontend	https://hub.docker.com/r/lhhnghia1908/frontend
+Link_Render_App	https://web-235811.onrender.com
+Link_Render_API	https://api-235811.onrender.com
+Link_Data_MongoDB	Cluster 235811lhhnghia, database 235811_LHHNghia, collection devices
