@@ -4,7 +4,7 @@
 
 Ứng dụng web quản lý thiết bị phòng học gồm frontend, backend API và cơ sở dữ liệu MongoDB Atlas. Hệ thống hỗ trợ xem danh sách, xem chi tiết, thêm, cập nhật, xóa, tìm kiếm thiết bị và theo dõi tình trạng sử dụng (Đang sử dụng, Hư hỏng, Đang sửa chữa, Ngừng sử dụng).
 
-- Sinh viên: Lê Huỳnh Hiếu 
+- Sinh viên: Lê Huỳnh Hiếu Nghĩa
 - MSSV: 235811
 
 ## Công nghệ sử dụng
