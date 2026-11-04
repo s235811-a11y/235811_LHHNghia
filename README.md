@@ -136,4 +136,4 @@ Cả hai dịch vụ được triển khai từ image trên Docker Hub. Biến m
 | Link_Docker_Frontend | https://hub.docker.com/r/lhhnghia1908/frontend |
 | Link_Render_App | https://web-235811.onrender.com |
 | Link_Render_API | https://api-235811.onrender.com |
-| Link_Data_MongoDB | Cluster 235811lhhnghia, database 235811_LHHNghia, collection devices |
+| Link_Data_MongoDB |mongodb+srv://lhhnghia1908:Lhhnghia19082005@235811lhhnghia.9jsafkw.mongodb.net/235811_LHHNghia?retryWrites=true&w=majority | Cluster 235811lhhnghia, database 235811_LHHNghia, collection devices |
